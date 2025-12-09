@@ -84,6 +84,6 @@ pip install tensorflow numpy opencv-python matplotlib pandas
 ```
 ### Passo 5.5: Rode o jupyter
 Com o jupyter aberto cole o arquivo e compile.
-    ```bash
-    jupyter lab
-    ```
+```bash
+jupyter lab
+```
