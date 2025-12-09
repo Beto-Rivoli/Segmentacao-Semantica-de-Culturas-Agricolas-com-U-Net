@@ -25,12 +25,13 @@ O pipeline de treinamento consiste em:
 * `unet_model.ipynb`: Notebook principal com treinamento e validação.
 
 ## 4. Pré-requisitos
-Recomendavel a utilização de **Linux** ou em windowns a implementação utilizando o **Windows Subsystem for Linux (WSL)** para conseguir utilizar a **GPU**
-Para executar este projeto, instale as dependências listadas abaixo:
+Recomendavel a utilização de **Linux** ou em Windows a implementação utilizando o **Windows Subsystem for Linux (WSL)** para a utilização da **GPU**.
+
+Para executar este projeto no **linux**, instale as dependências listadas abaixo:
 ```bash
 pip install tensorflow numpy opencv-python matplotlib pandas
 ````
-## 5. Instalação e Configuração do Ambiente (WSL + Ubuntu)
+## 5. Instalação e Configuração do Ambiente Windows (WSL + Ubuntu)
 Para executar este projeto no Windows utilizando as melhores práticas, recomendamos o uso do WSL (Windows Subsystem for Linux). Siga as etapas abaixo:
 
 ### Passo 5.1: Instalar o WSL e Ubuntu
