@@ -1,5 +1,10 @@
 # Segmentacao-Semantica-de-Culturas-Agricolas-com-U-Net
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ## 1. Introdução
 Este projeto implementa uma rede neural convolucional (CNN) baseada na arquitetura **U-Net** para realizar a segmentação semântica de imagens agrícolas. O objetivo é classificar cada pixel da imagem em categorias específicas (ex: Soja, Solo/Fundo), permitindo a análise automatizada de saúde da plantação e cobertura do solo.
 
