@@ -4,6 +4,8 @@
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-11.8%2B-76B900?logo=nvidia&logoColor=white)
+![cuDNN](https://img.shields.io/badge/cuDNN-8.6%2B-76B900?logo=nvidia&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ## 1. Introdução
 Este projeto implementa uma rede neural convolucional (CNN) baseada na arquitetura **U-Net** para realizar a segmentação semântica de imagens agrícolas. O objetivo é classificar cada pixel da imagem em categorias específicas (ex: Soja, Solo/Fundo), permitindo a análise automatizada de saúde da plantação e cobertura do solo.
