@@ -22,7 +22,7 @@ O pipeline de treinamento consiste em:
 ## 3. Estrutura do Projeto
 * `aug_data/images`: Diretório contendo as imagens de entrada.
 * `aug_data/masks`: Diretório contendo as máscaras (ground truth).
-* `unet_model.ipynb`: Notebook principal com treinamento e validação.
+* `Modelo_unet_explicado.ipynb`: Notebook principal com treinamento e validação.
 
 ## 4. Pré-requisitos
 Recomendavel a utilização de **Linux** ou em Windows a implementação utilizando o **Windows Subsystem for Linux (WSL)** para a utilização da **GPU**.
